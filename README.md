@@ -9,3 +9,7 @@ massive wip ok? probably gonna look weird on light mode mb
 ![made by trixxitreatz](novagraphic.png)
 
 [ata](https://angelpupp.atabook.org) . [toyhouse](https://toyhou.se/StarFettiz)
+
+
+
+repo is being made by @trixxitreatz !!

@@ -1,6 +1,5 @@
 <div align="center">
 
-![topdiv]()
 
 ![](https://komarev.com/ghpvc/?username=purestangel&label=angels&color=2c1249&style=plastic)
 
@@ -15,7 +14,5 @@
 [ata](https://angelpupp.atabook.org) . [toyhouse](https://toyhou.se/StarFettiz)
 
 ![stargazer](stargazer.png)
-
-![bottom](bottomdiv.png)
 
 <sub>repo + graphics made by [trixxitreatz](https://github.com/trixxitreatz) !!</sub>

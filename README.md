@@ -11,7 +11,7 @@
 
 ![trixxitreatz](novagraphicdni.png)
 
-[ata](https://angelpupp.atabook.org) . [toyhouse](https://toyhou.se/StarFettiz)
+[ata](https://purestangel.atabook.org) . [toyhouse](https://toyhou.se/StarFettiz)
 
 ![stargazer](stargazer.png)
 
